@@ -80,8 +80,6 @@ SmartAssetManagementSystem/
 └── README.md
 
 
-Each folder contains modular code so recruiters or contributors can explore the backend logic easily.
-
 - Business Rules Included
 Auto Serial Number Generation
 Auto Catalog Task Creation
@@ -99,19 +97,7 @@ HTML template
 Client Controller
 Server Script
 Widget JSON metadata
-
-- Flow Designer Workflows Included
-Asset Request Workflow
-Asset Transfer Approval Flow
-Each flow is exported in JSON format (GitHub-friendly) for documentation purposes.
-
-- Tables & Schema
-Includes table structure JSON files for:
-u_asset_catalog
-u_asset_requests
-u_asset_issue
-u_asset_transfer
-
+  
 
 🎓 About This Project
 
